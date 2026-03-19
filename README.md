@@ -21,7 +21,7 @@ Acredito que dados bem interpretados geram decisões melhores. Estou aqui para a
 ![SQL](https://img.shields.io/badge/SQL-Avançado-blue?style=flat&logo=postgresql)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Intermediário-yellow?style=flat&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-Avançado-green?style=flat&logo=microsoftexcel)
-![Python](https://img.shields.io/badge/Python-Básico-orange?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-avançado-orange?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/Git-Iniciante-red?style=flat&logo=git)
 
 ---
