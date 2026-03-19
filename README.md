@@ -8,9 +8,9 @@
 
 ## Sobre mim
 
-Profissional em transição de carreira para a área de Tecnologia da Informação, com foco em **análise de dados, BI e Inteligência Artificial**. Estou concluindo o Tecnólogo em IA pela **Uninove** e me dedico diariamente ao aprendizado prático em SQL, Power BI e Python.
+Profissional em transição de carreira para a área de Tecnologia da Informação, com foco em **análise de dados, BI e Inteligência Artificial**. Estou concluindo o Tecnólogo em IA pela **Uninove** e me dedico diariamente ao aprendizado prático em SQL, Power BI, Machine Learning, Deep Learning e Python.
 
-Tenho background em **administração, gestão e finanças** (diploma técnico pelo Aprenda+) e experiência como professor por mais de 15 anos — o que me deu forte capacidade de comunicação, didática e resolução de problemas.
+Tenho background de cursos em **administração, gestão e finanças** (diploma), autodidata e conhecimento avançado em Audio-visual e experiência como professor de violao por mais de 15 anos — o que me deu forte capacidade de comunicação, didática e resolução de problemas.
 
 Acredito que dados bem interpretados geram decisões melhores. Estou aqui para aprender, colaborar e crescer.
 
