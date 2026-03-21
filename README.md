@@ -8,7 +8,13 @@
 
 ## Sobre mim
 
-Profissional em transição de carreira para a área de Tecnologia da Informação, com foco em **análise de dados, BI e Inteligência Artificial**. Estou concluindo o Tecnólogo em IA pela **Uninove** e me dedico diariamente ao aprendizado prático em SQL, Power BI, Machine Learning, Deep Learning e Python.
+Profissional em transição de carreira para a área de Tecnologia da Informação, com foco em **análise de dados, BI,machine learning , Deep learning e Inteligência Artificial**. Estou concluindo o Tecnólogo em IA pela **Uninove** e me dedico diariamente ao aprendizado prático em . Projeto: Análise Financeira Completa
+Etapa 1 — SQL
+Consultas e exploração dos dados
+Etapa 2 — Python
+Limpeza e análise exploratória
+Etapa 3 — Power BI
+Dashboard final
 
 Tenho background de cursos em **administração, gestão e finanças** (diploma), autodidata e conhecimento avançado em Audio-visual e experiência como professor de violao por mais de 15 anos — o que me deu forte capacidade de comunicação, didática e resolução de problemas.
 
@@ -41,7 +47,7 @@ Acredito que dados bem interpretados geram decisões melhores. Estou aqui para a
 ## 🎓 Formação
 
 - 🎓 **Tecnólogo em Inteligência Artificial** — Uninove *(cursando)*
-- 📜 **Técnico em Administração, Gestão e Finanças** — Aprenda+ *(concluído)*
+- 📜 **Técnico em Administração, Gestão e Finanças** —  *(certidicado/concluído)*
 
 ---
 
