@@ -45,7 +45,7 @@ Acredito que dados bem interpretados geram decisões melhores. Estou aqui para a
 
 ## 🎓 Formação
 
-- 🎓 **Tecnólogo em Inteligência Artificial** — Uninove *(cursando)*
+- 🎓 **Tecnólogo em Inteligência Artificial** — Uninove *(Bacharelado/terminando)*
 - 📜 **Técnico em Administração, Gestão e Finanças** —  *(certidicado/concluído)*
 
 ---
