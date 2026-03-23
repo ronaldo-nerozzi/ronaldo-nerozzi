@@ -8,13 +8,13 @@
 
 ## Sobre mim
 
-Profissional em transição de carreira para a área de Tecnologia da Informação, com foco em **análise de dados, BI,machine learning , Deep learning e Inteligência Artificial**. Estou concluindo Bacharelado em Tecnólogo em IA pela **Uninove** e me dedico profundamente no conceito e lógica da programacao e AI . Estou amando o aprendizado prático em Projeto: Análise Financeira Completa
+Profissional em transição de carreira para a área de Tecnologia da Informação, com foco em **análise de dados, BI,machine learning , Deep learning e Inteligência Artificial**. Estou concluindo Bacharelado em Tecnólogo em IA pela **Uninove** e me dedico profundamente no conceito e lógica da programacao e AI . Estou amando o aprendizado prático em Projetos como: Análise Financeira Completa
 -SQL
 -Consultas e exploração dos dados — linguagen de programação -Python -
 -C - C++ - Limpeza e análise exploratória de Dados  — Power BI -
 Dashboard . 
 
-Tenho background de cursos em **administração, gestão e finanças** (diploma), autodidata e conhecimento avançado em Audio-visual e experiência como professor de violao por mais de 15 anos — o que me deu forte capacidade de comunicação, didática e resolução de problemas.
+Tenho background de cursos em **administração, gestão e finanças** (diploma), autodidata em conhecimento avançado em Audio-visual e experiência como professor de violao por mais de 15 anos — o que me deu forte capacidade de comunicação, didática e resolução de problemas.
 
 Acredito que dados bem interpretados geram decisões melhores. Estou aqui para aprender, colaborar e crescer.
 
